@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinTown", "TinTown\TinTown.csproj", "{09183547-5F99-48DE-BE9C-A80894696185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09183547-5F99-48DE-BE9C-A80894696185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09183547-5F99-48DE-BE9C-A80894696185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09183547-5F99-48DE-BE9C-A80894696185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09183547-5F99-48DE-BE9C-A80894696185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {062587D1-9FBD-4980-BCCE-321959C61DAF}
+	EndGlobalSection
+EndGlobal
